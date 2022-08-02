@@ -1,0 +1,19 @@
+/* COLORS USED */
+/* FONTS USED */
+/* FONTS DEFINITION */
+@font-face {
+  font-family: Stellar-regular;
+  src: url("../../src/fonts/stellar_regular.otf");
+}
+@font-face {
+  font-family: Stellar-light;
+  src: url("../../src/fonts/stellar_light.otf");
+}
+@font-face {
+  font-family: Stellar-medium;
+  src: url("../../src/fonts/stellar_medium.otf");
+}
+@font-face {
+  font-family: Stellar-bold;
+  src: url("../../src/fonts/stellar_bold.otf");
+}/*# sourceMappingURL=variables.css.map */

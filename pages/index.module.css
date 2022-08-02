@@ -1,0 +1,13 @@
+.background_image {
+  height: 85vh;
+}
+
+.map_box {
+  display: flex;
+  width: 100vw;
+  height: 50vh;
+}
+
+.iframebox {
+  width: 60vw;
+}/*# sourceMappingURL=index.module.css.map */

@@ -1,0 +1,30 @@
+
+// COLORS
+$white_color: white;
+$black_color: black;
+
+// FONTS
+$StellarR: Stellar-regular;
+$StellarL: Stellar-light;
+$StellarB: Stellar-bold;
+$StellarM: Stellar_medium;
+
+@font-face {
+    font-family: Stellar-regular;
+    src: url("../../src/fonts/stellar_regular.otf");
+}
+
+@font-face {
+    font-family: Stellar-light;
+    src: url("../../src/fonts/stellar_light.otf");
+}
+
+@font-face {
+    font-family: Stellar-medium;
+    src: url("../../src/fonts/stellar_medium.otf");
+}
+  
+@font-face {
+    font-family: Stellar-bold;
+    src: url("../../src/fonts/stellar_bold.otf");
+}
